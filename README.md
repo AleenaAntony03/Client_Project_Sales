@@ -1,8 +1,12 @@
 # Client_Project_Sales
 Project Title: Sales Effectiveness Prediction
+
 👤 Client: FicZon Inc.
+
 🎯 Goal: Predict whether a sales lead is high or low potential using machine learning to improve lead prioritization and sales outcomes.
+
 🧪 Exploratory Data Analysis (EDA)
+
 📌 Key Feature Observations:
 Product ID:
 
